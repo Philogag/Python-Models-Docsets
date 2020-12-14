@@ -16,10 +16,10 @@ then use `doc2dash -n Python.numpy ./numpy/doc` to build `Python.numpy.docset`
 
 ## Src List
 
-|          |                      Src                       |           Docset           | Docset Build Time |
-| :------: | :--------------------------------------------: | :------------------------: | :---------------: |
-|  Numpy   |          https://docs.scipy.org/doc/           |  [Python.Numpy.docset]()   |    2020/12/14     |
-|  Pandas  | https://pandas.pydata.org/pandas-docs/stable/  |  [Python.Pandas.docset]()  |    2020/12/14     |
-| pymongo  | https://github.com/mongodb/mongo-python-driver | [Python.pymongo.docset]()  |    2020/12/13     |
-| requests |        https://github.com/psf/requests         | [Python.requests.docset]() |    2020/12/13     |
+|          |                      Src                       |                       Docset Download                        | Docset Build Time |
+| :------: | :--------------------------------------------: | :----------------------------------------------------------: | :---------------: |
+|  Numpy   |          https://docs.scipy.org/doc/           | [Releases v1.0](https://github.com/Philogag/Python-Models-Docsets/releases/tag/v1.0) |    2020/12/14     |
+|  Pandas  | https://pandas.pydata.org/pandas-docs/stable/  | [Releases v1.0](https://github.com/Philogag/Python-Models-Docsets/releases/tag/v1.0) |    2020/12/14     |
+| pymongo  | https://github.com/mongodb/mongo-python-driver | [Releases v1.0](https://github.com/Philogag/Python-Models-Docsets/releases/tag/v1.0) |    2020/12/13     |
+| requests |        https://github.com/psf/requests         | [Releases v1.0](https://github.com/Philogag/Python-Models-Docsets/releases/tag/v1.0) |    2020/12/13     |
 
